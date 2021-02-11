@@ -9,6 +9,9 @@
   .topnav {
     overflow: hidden;
     background-color: rgb(224, 217, 16);
+    position: fixed;
+    top: 0;
+    width: 100%;
   }
   
   .topnav a {
@@ -112,13 +115,16 @@
   .dropdown:hover .dropdown-content {display: block;}
   
 
+ 
+
   .LogoMenu
 {
   display: block;
   
   width:45px; 
-  margin-top: -61px;
-  
+  margin-top: 3px;
+  position: fixed;
+  top: 0;
   
 }
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap')
