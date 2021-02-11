@@ -8,7 +8,7 @@
 
   .topnav {
     overflow: hidden;
-    background-color: rgb(141, 136, 2);
+    background-color: rgb(224, 217, 16);
   }
   
   .topnav a {
@@ -21,12 +21,12 @@
   }
   
   .topnav a:hover {
-    background-color: rgb(141, 136, 2);
+    background-color: rgb(244, 217, 16);
     
   }
   
   .topnav a.active {
-    background-color: rgb(141, 136, 2);
+    background-color: rgb(244, 217, 16);
     
   }
   
@@ -107,7 +107,7 @@
     display: block;
   }
   
-  .dropdown-content a:hover {background-color:rgb(141, 136, 2);}
+  .dropdown-content a:hover {background-color:rgb(224, 217, 16);}
   
   .dropdown:hover .dropdown-content {display: block;}
   
